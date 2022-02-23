@@ -1,0 +1,6 @@
+framework module Pods_ConnectToFireStoreDB {
+  umbrella header "Pods-ConnectToFireStoreDB-umbrella.h"
+
+  export *
+  module * { export * }
+}
